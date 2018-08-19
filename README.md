@@ -1,4 +1,5 @@
 # Run Loop Podcast
+<a href="url"><img src="logo.jpg" height="256" width="256" ></a>
 ## Как свести?
 ### TL;DR
 1. Открываем все дорожки в Audacity
